@@ -1,0 +1,18 @@
+graph TD
+    A[Client Application] -->|API Requests| B[API Gateway]
+    B -->|Route Requests| C[Backend Services]
+    C -->|Query| D[Database]
+    C -->|Call AI Models| E[AI Model Integrations]
+    E -->|Enhance Prompt GPT| J[Prompt Enhancer]
+    J -->|Enhanced Prompt| F[v0]
+    J -->|Enhanced Prompt| G[Claude] 
+    J -->|Enhanced Prompt| H[ChatGPT] 
+    J -->|Enhanced Prompt| I[Bolt AI]
+    F --> K[Response Aggregator] 
+    G --> K[Response Aggregator]
+    H --> K[Response Aggregator]
+    I --> K[Response Aggregator]
+    K -->|Aggregate Responses| E[Response Aggregator]
+    K -->|Final Best Result| N[Client Response]
+    L[Authentication Service] -->|Validate| B
+    
