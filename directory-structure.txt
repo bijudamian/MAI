@@ -1,0 +1,46 @@
+multi-model-ai-chatbot/
+├── .vscode/
+│   ├── launch.json
+│   └── settings.json
+├── app/
+│   ├── api/
+│   │   ├── auth/
+│   │   │   └── [...nextauth]/
+│   │   │       └── route.ts
+│   │   ├── chat/
+│   │   │   └── route.ts
+│   │   └── conversation/
+│   │       └── route.ts
+│   ├── components/
+│   │   └── CodeBlock.tsx
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   └── ui/
+│       ├── button.tsx
+│       ├── card.tsx
+│       ├── input.tsx
+│       └── scroll-area.tsx
+├── config/
+│   └── index.ts
+├── lib/
+│   └── prisma.ts
+├── prisma/
+│   └── schema.prisma
+├── public/
+│   └── favicon.ico
+├── utils/
+│   ├── cache.ts
+│   ├── promptEnhancer.ts
+│   └── responseAggregator.ts
+├── .env.local
+├── .eslintrc.json
+├── .gitignore
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── tsconfig.json
+
