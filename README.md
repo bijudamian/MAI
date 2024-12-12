@@ -53,17 +53,25 @@ Together, they form the ultimate coding squad, ready to tackle any challenge you
    Create a file called `.env.local` in the main folder and fill it with:
    \`\`\`
    DATABASE_URL=ask_your_tech_friend_for_this
+   
    NEXTAUTH_SECRET=make_up_something_super_secret
+   
    GITHUB_ID=get_this_from_github
+   
    GITHUB_SECRET=this_too_comes_from_github
+   
    V0_API_KEY=your_v0_api_key
+   
    CLAUDE_API_KEY=your_claude_api_key
+   
    OPENAI_API_KEY=your_openai_api_key
+   
    BOLT_AI_API_KEY=your_bolt_ai_api_key
+   
    \`\`\`
    Don't worry if this looks like gibberish - it's supposed to! 🤫
 
-4. **Prepare Your Database**
+5. **Prepare Your Database**
    
    Type this magic spell:
    \`\`\`
@@ -71,7 +79,7 @@ Together, they form the ultimate coding squad, ready to tackle any challenge you
    \`\`\`
    Abracadabra! Your database is ready! 🧙‍♂️✨
 
-5. **Launch the Rocket!**
+6. **Launch the Rocket!**
    
    Final step! Type:
    \`\`\`
@@ -79,7 +87,7 @@ Together, they form the ultimate coding squad, ready to tackle any challenge you
    \`\`\`
    Houston, we have liftoff! 🚀
 
-6. **See Your Creation**
+7. **See Your Creation**
    
    Open your web browser and go to `http://localhost:3000`. Welcome to your new AI playground!
 
