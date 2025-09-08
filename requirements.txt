@@ -1,0 +1,10 @@
+requests
+Pillow
+pytesseract
+langchain-community
+gradio
+numpy
+pypdf
+faiss-cpu
+google-generativeai
+python-dotenv
