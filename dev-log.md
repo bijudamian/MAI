@@ -8,3 +8,5 @@ Running notes on ongoing development work.
 - updated deployment configuration for production
 ### 2026-05-07
 - optimised database queries for faster load times
+### 2026-05-08
+- improved error handling in async functions
