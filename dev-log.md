@@ -10,3 +10,5 @@ Running notes on ongoing development work.
 - optimised database queries for faster load times
 ### 2026-05-08
 - improved error handling in async functions
+### 2026-05-09
+- fixed server-side hydration mismatch
