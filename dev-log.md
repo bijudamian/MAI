@@ -14,3 +14,4 @@ Running notes on ongoing development work.
 - fixed server-side hydration mismatch
 ### 2026-05-10
 - cleaned up unused imports and dead code
+- fixed responsive layout issues on mobile viewport
