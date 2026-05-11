@@ -17,3 +17,4 @@ Running notes on ongoing development work.
 - fixed responsive layout issues on mobile viewport
 ### 2026-05-11
 - improved global state management logic
+- cleaned up CSS and removed unused styles
