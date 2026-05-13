@@ -18,3 +18,5 @@ Running notes on ongoing development work.
 ### 2026-05-11
 - improved global state management logic
 - cleaned up CSS and removed unused styles
+### 2026-05-13
+- optimised database queries for faster load times
