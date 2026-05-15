@@ -20,3 +20,5 @@ Running notes on ongoing development work.
 - cleaned up CSS and removed unused styles
 ### 2026-05-13
 - optimised database queries for faster load times
+### 2026-05-15
+- added edge case handling for empty states
