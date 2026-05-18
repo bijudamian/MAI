@@ -22,3 +22,5 @@ Running notes on ongoing development work.
 - optimised database queries for faster load times
 ### 2026-05-15
 - added edge case handling for empty states
+### 2026-05-18
+- updated API endpoints to handle edge cases
