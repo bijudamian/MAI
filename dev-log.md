@@ -24,3 +24,5 @@ Running notes on ongoing development work.
 - added edge case handling for empty states
 ### 2026-05-18
 - updated API endpoints to handle edge cases
+### 2026-05-21
+- updated README with setup and usage instructions
